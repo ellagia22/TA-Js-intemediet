@@ -1,0 +1,13 @@
+soal no.1
+1. apa itu localStorage ?
+jawaban : localStorage tempat di browser yang bisa digunakan utnuk menyimpan data dan data tidak akan hilang walaupun browser di close dan komputer di restart
+
+soal no.2
+2. apa itu cookies ?
+jawaban :  cookies adalah istilah untuk menyimpan informasi aktivitas yang kamu lakukan di suatu website agar situs tersebut dapat menampilkan konten yang sesuai denganmu
+
+soal no.3
+3. Apa perbedaan antara localStorage dan sessionStorage ?
+jawaban :
+window.localStorage : data yang disimpan tidak memiliki waktu expired
+window.sessionStorage : data yang disimpan akan hilang jika browes ditutuplocalStorage memungkinkan kita untuk menyimpan data di web browser tanpa kehilangan data tersebut meskipun web browsenya ditutup.
